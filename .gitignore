@@ -1,0 +1,17 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/BusinessLogic/bin/Debug
+/BusinessLogic/obj/Debug
+/CariHesapTakibi/bin/Debug
+/CariHesapTakibi/obj/Debug
+/DataAccess/bin/Debug
+/DataAccess/obj/Debug
+/DataAccess/DataAccess.csproj.user
+/Entity/bin/Debug
+/Entity/obj/Debug
+*.user
+*.settings
+/.vs/CariHesapTakibi/v14
+/.vs
